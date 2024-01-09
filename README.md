@@ -22,10 +22,6 @@ This Pizza Sales Analysis Project featuring a dynamic Power BI dashboard that br
 * Add Card chart, Area chart, Donut chart, Bar chart, Map etc
 * Add buttons to create an another page with Visuals for Best/Worst Pizza
 
-
-# Power BI Dashboard
-This is an interactive Power BI Dashboard , you can interact with this dashboard from https://www.novypro.com/project/pizza-sales-report-power-bi-3
-
 Pizza Sales Overview REPORT
 
 <img width="618" alt="image" src="https://github.com/jaseel342/Pizza_Sales_Report/assets/135998004/27c9f9df-46f7-4ea2-8a99-1f434ffc7f49">
